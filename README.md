@@ -1,7 +1,7 @@
 ------------------------------------------> ***Under Construction*** <------------------------------------------
 
 # Phases Research Lab Software Projects
-This repository serves as an index of class resources [Phases Research Lab](https://phaseslab.org) group members are working on. Focusing on Penn State's **MatSE 410, 580, 581** courses tought by Dr. Liu.
+This repository serves as an index of class resources [Phases Research Lab](https://phaseslab.org) group members are working on. We focuse on **Penn State's MatSE 410, 580, 581** courses tought by Dr. Liu, but all related contributions are welcome!
 
 **Contents:**
 [**MatSE 410**](#matse-410) &nbsp;|&nbsp;  [**MatSE 580**](#matse-580)  &nbsp;|&nbsp;  [**MatSE 581**](#matse-581)  &nbsp;|&nbsp;  [**General**](#general)  &nbsp;|&nbsp;  [**Alumni Work and Legacy Resources**](#alumni-work-and-legacy-resources)
@@ -31,8 +31,8 @@ This repository serves as an index of class resources [Phases Research Lab](http
 
 - 🟢✅ [**pymatgen - pymongo - pysipfenn**](https://github.com/amkrajewski/MatSE580GuestLectures) - Two standalone hands-on workshop-style guest lectures by [@amkrajewski](https://github.com/amkrajewski) covering basics of (1) materials data manipulation, (2) storage, (3) running ML methods on them, and (4) using feature space tu guide DFT calculations. Deployed through [**(amkrajewski.github.io/MatSE580GuestLectures)**](https://amkrajewski.github.io/MatSE580GuestLectures/) website and preconfigured development environemnt.
   
-  [![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/amkrajewski/MatSE580GuestLectures?label=Last%20Commit)](https://github.com/amkrajewski/MatSE580GuestLectures)
   [![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/amkrajewski/MatSE580GuestLectures?quickstart=1)
+  [![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/amkrajewski/MatSE580GuestLectures?label=Last%20Commit)](https://github.com/amkrajewski/MatSE580GuestLectures)
 
   
 
