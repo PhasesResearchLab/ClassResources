@@ -1,7 +1,7 @@
 ------------------------------------------> ***Under Construction*** <------------------------------------------
 
-# Phases Research Lab Software Projects
-This repository serves as an index of class resources [Phases Research Lab](https://phaseslab.org) group members are working on. We focuse on **Penn State's MatSE 410, 580, 581** courses tought by Dr. Liu, but all related contributions are welcome!
+# Phases Research Lab Class Resources
+This repository serves as an index of class resources [Phases Research Lab](https://phaseslab.org) group members are working on. We focus on **Penn State's MatSE 410, 580, and 581** courses taught by Dr. Liu and his students, but all related educational contributions are welcome!
 
 **Contents:**
 [**MatSE 410**](#matse-410) &nbsp;|&nbsp;  [**MatSE 580**](#matse-580)  &nbsp;|&nbsp;  [**MatSE 581**](#matse-581)  &nbsp;|&nbsp;  [**General**](#general)  &nbsp;|&nbsp;  [**Alumni Work and Legacy Resources**](#alumni-work-and-legacy-resources)
