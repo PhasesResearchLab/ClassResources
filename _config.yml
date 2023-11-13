@@ -1,9 +1,9 @@
 title: Phases Research Lab at PSU
-description: Phases Research Lab Software Projects
+description: Phases Research Lab Class Resources
 theme: just-the-docs
 color_scheme: wider
 
-url: https://software.phaseslab.org
+url: https://phasesresearchlab.github.io/ClassResources
 
 favicon_ico: "/assets/PRL_logo.ico"
 
@@ -25,6 +25,9 @@ nav_external_links:
   - title: Group Homepage
     url: https://phaseslab.org
     hide_icon: false
+  - title: Software Index
+    url: https://software.phaseslab.org
+    hide_icon: false
   - title: Publications List
     url: https://phaseslab.com/publications
     hide_icon: false
@@ -37,10 +40,10 @@ nav_external_links:
   
 
 aux_links:
-  Edit on GitHub: "https://github.com/PhasesResearchLab/SoftwareProjects"
+  Edit on GitHub: "https://github.com/PhasesResearchLab/ClassResources"
 
 gh_edit_link: true
 gh_edit_link_text: "Edit this page on GitHub."
-gh_edit_repository: "https://github.com/PhasesResearchLab/SoftwareProjects" 
+gh_edit_repository: "https://github.com/PhasesResearchLab/ClassResources" 
 gh_edit_branch: "main"
 gh_edit_view_mode: "tree" # "tree" or "edit" if you want the user to jump into the editor immediately
